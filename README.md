@@ -1,7 +1,7 @@
 ### 👋 Hi, I’m Gabriel
-- 🌱 I'm an economist and MSC in Sustainable Development by Instituto Tecnológico da Vale (ITV); and in Economics by Universidade Federal do Pará.
-- 👀 I’m interested in mathematical, statistical and analytical skills, and teaching how to apply econometrics principles to solve several challenges for industry and science.
-- ✨ I’m currently learning Python languange, SQL skills and improving my use of Stata, Matlab, Oracle, RStudio and QGIS.
+- 🌱 I'm an economist and MSC in Sustainable Development by Instituto Tecnológico da Vale (ITV); and in Economics by Universidade Federal do Pará
+- 👀 I’m interested in mathematical, statistical and analytical skills, and teaching how to apply econometrics principles to solve several challenges for industry and science
+- ✨ I’m currently learning Python languange, SQL skills and improving my use of Stata, Matlab, Oracle, RStudio and QGIS
 - 💼 I’m looking to collaborate on new projects that demand numerical, analytical and problem-solving skills such as financial management, market research, business planning, budgeting and resource allocation
 - 📫 How to reach me: moiagabriel22@gmail.com
 - 😀 Pronouns: he/him
